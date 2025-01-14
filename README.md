@@ -1,1 +1,1 @@
-# Getting started with Open AI
+#Getting started with Open AI
