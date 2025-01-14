@@ -50,7 +50,7 @@ Para probar este proyecto, estos son los pasos a seguir:
    AZURE_OPENAI_ENDPOINT=tu_endpoint
    ```
 
-9. En los archivos `quickstart.py` y `01_OpenAI_getting_started.ipynb`, sustituye el valor de model por el nombre de tus modelos, para poder utilizarlos cuando sea necesario.
+9. En los archivos `quickstart.py` y `01_OpenAI_getting_started.ipynb`, sustituye el valor de `model` por el nombre de tus modelos, para poder utilizarlos cuando sea necesario.
 
 10. Ejecuta el script `quickstart.py`:
 
