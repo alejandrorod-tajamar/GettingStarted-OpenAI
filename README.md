@@ -54,8 +54,8 @@ Para probar este proyecto, estos son los pasos a seguir:
 
 10. Ejecuta el script `quickstart.py`:
 
-   ```cmd
-   python quickstart.py
-   ```
+    ```cmd
+    python quickstart.py
+    ```
 
 11. **Interacción con el asistente**: Sigue las instrucciones en `01_OpenAI_getting_started.ipynb` para interactuar con el asistente virtual.
