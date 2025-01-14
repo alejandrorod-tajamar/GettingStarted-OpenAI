@@ -59,3 +59,7 @@ Para probar este proyecto, estos son los pasos a seguir:
     ```
 
 11. **Interacción con el asistente**: Sigue las instrucciones en `01_OpenAI_getting_started.ipynb` para interactuar con el asistente virtual.
+
+Para obtener más información sobre cómo utilizar la API de OpenAI, puedes consultar la (documentación oficial)[https://platform.openai.com/docs/quickstart].
+
+Además, este (video tutorial)[https://www.youtube.com/watch?v=Zb5Nylziu6E] puede ser útil para comprender cómo comenzar con la API de OpenAI
